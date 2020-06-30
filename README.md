@@ -1,1 +1,1 @@
-# S-n-fland-rma_Modelleri
+# Siniflandirma_Modelleri
